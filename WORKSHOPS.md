@@ -4,11 +4,11 @@ The Mozilla hackerlounge will host several short workshops (more like quick, men
 
 ## Workshop format
 
-The conference is a single-track conference, with 40-minute talks & 20 minute breaks. This leaves self-contained 1-hour "blocks" in which workshops will be happenning at the Hackerlounge, in parallel with the talks at the main stage.
+The conference is a single-track conference, with blocks of 30-minute talks & short breaks in-between. This leaves self-contained ~1-hour "blocks" in which workshops will be happenning at the Hackerlounge, in parallel with the talks at the main stage.
 
-Every workshop starts 5-10 minutes into the break with a short, ~10-minute "lightning talk" intro to the subject of the upcoming session. Mentors of the sessions will be mozillians, speakers or attendees of the conference - basically anyone can do a workshop, as long as:
-* the topic is in line with Mozilla Values
-* the mentor has valid means of getting into the conference the day of their workshop (speaker, ticket, invite etc.)
+Every workshop starts ~10 minutes before the end of the break with a quick _"lightning talk"_ intro on the subject of the upcoming session. Mentors of the sessions can be mozillians, speakers or attendees of the conference - basically anyone can do a workshop, as long as:
+* the topic is in line with [Mozilla Values](https://www.mozilla.org/mission/)
+* the mentor has valid means of getting into the conference on the day of their session (speaker, ticket, invite etc.)
 * the mentor has pre-arranged a timeslot with the Hackerlounge organizers, and appears on the [Schedule](#Schedule)
 
 Every type and kind of workshop/session is welcome, not just technical talks, we especially encourage mentors to apply for community, mental health, diversity and open-source related sessions!
@@ -20,7 +20,7 @@ By the end of the break, people attending the lightning talk part of the session
 File an [issue](issues) with the `[proposal]` tag and session name in the issue title:  
 `[proposal] Progressive Foobarment in Open Spruce`
 
-Describe the topic of your lightning-talk/intro to your proposed session, and describe the format of the workshop session in the issue description. Lightning talk shoud be <10 minutes, session should not be longer than 40 minutes.
+Describe the topic of your lightning-talk/intro to your proposed session, and describe the format of the workshop session in the issue description. Lightning talk shoud be <10 minutes, session should not be longer than 45-60 minutes.
 
 Please also add any notes related to scheduling/availability or schedule preference.
 
@@ -38,6 +38,3 @@ Please also add any notes related to scheduling/availability or schedule prefere
 | 3 ||||
 | 4 ||||
 | 5 ||||
-| 6 ||||
-| 7 ||||
-| 8 ||||
