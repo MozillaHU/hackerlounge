@@ -17,7 +17,7 @@ By the end of the break, people attending the lightning talk part of the session
 
 ### Submitting a workshop
 
-File an [issue](issues) with the `[proposal]` tag and session name in the issue title:  
+File an [issue](https://github.com/MozillaHU/hackerlounge/issues/new) with the `[proposal]` tag and session name in the issue title:  
 `[proposal] Progressive Foobarment in Open Spruce`
 
 Describe the topic of your lightning-talk/intro to your proposed session, and describe the format of the workshop session in the issue description. Lightning talk shoud be <10 minutes, session should not be longer than 45-60 minutes.
