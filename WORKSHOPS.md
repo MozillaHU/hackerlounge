@@ -1,6 +1,7 @@
 # Workshops
 
-The Mozilla hackerlounge will host several short workshops (more like quick, mentored hack-hours) every day introducing not just Mozilla technologies, but technologies all around the Open Web Platform. During the three conference days everyone can find a topic that appeals to them and after hearing a short introduction can stick around for a bit of hacking, with mentor(s) helping/guiding them.
+The Mozilla hackerlounge will host several short workshops (more like quick, mentored hack-hours) all day, every day. These sessions are not (just) about Mozilla, but are to incorporate the whole diversity of the Open Web Platform. Sessions are to be held by mozillians, speakers of the conference and even attendees. During the three conference days everyone can find a topic that appeals to them and after hearing a short introduction can stick around for a bit of hacking, with mentor(s) helping/guiding them.  
+For those curious to learn more, or try some of the stuff mentioned in the talks? Some of the speakers will host hacksessions where one can engage more deeply with the topic, with the guidance of the speaker and mozillian mentors. 
 
 ## Workshop format
 
@@ -11,7 +12,7 @@ Every workshop starts ~10 minutes before the end of the break with a quick _"lig
 * the mentor has valid means of getting into the conference on the day of their session (speaker, ticket, invite etc.)
 * the mentor has pre-arranged a timeslot with the Hackerlounge organizers, and appears on the [Schedule](#Schedule)
 
-Every type and kind of workshop/session is welcome, not just technical talks, we especially encourage mentors to apply for community, mental health, diversity and open-source related sessions!
+Every type and kind of workshop/session is welcome, not just technical ones, we especially encourage mentors to apply for community, mental health, diversity and open-source related sessions!
 
 By the end of the break, people attending the lightning talk part of the session can decide whether they go for talks, or stick around for the workshop part of the session. For the workshop session (which lasts until the start of the next break), mentors could have a more interactive session/brainstorming, hand out hardware or other means of tools for attendees to hack on, or simply provide a bunch of links & resources for attendees to get started hacking on the topic, and provide individual guidance & mentorship during the hacking session.
 
@@ -26,8 +27,10 @@ Please also add any notes related to scheduling/availability or schedule prefere
 
 ## Mentors & Topics
 
-* [Gabriel Micko]() - [WebRTC hacksession](#)
-* 
+* Gabriel Micko @gabrielmicko - [WebRTC hacksession](#)
+* Nick Hehr @hipsterbrown - [JavaScript Hardware Hacking with the Tessel2](#)
+* Nolan Lawson @nolanlawson - [Crash Course on Progressive Web Apps](#)
+* _you?_
 
 ### Schedule
 
