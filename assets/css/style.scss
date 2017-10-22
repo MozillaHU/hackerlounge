@@ -16,6 +16,20 @@ section #title h1 {
   visibility: hidden;
 }
 
-#title hr, #title .credits:not(hover) {
+#title hr, #title .credits:not(:hover) {
 	opacity: .33;
+}
+
+img[src^="talks-"], img[src^="demos-"] {
+	height: 8em;
+	float: left;
+	margin: 1em;
+}
+img[src^="demos-"] {
+	margin: 1em 1em .5em 0;
+	border: 1px solid #ffcc00;
+}
+
+h1,h2,h3 {
+	clear: both;
 }
