@@ -20,13 +20,13 @@ Just grab some food and settle in for some CSS and HTML5 games wizardry!
 ### Day 1 - Eva Lettner - The Magic of CSS
 `Thurdsay 12:45`
 
-![Eva Lettner](talks-eva.jpg)
+![Talk: Eva Lettner](talks-eva.jpg)
 > Creating art is as old as humankind. Over time the techniques have changed. This talk will introduce CSS as a medium to create images and animations made up of pure code. You will learn to view code differently, to create more concise markups in the future, and you will learn the basics of drawing with CSS to set you on your way of creating CSS Art.
 
 ### Day 2 - Lisa Passing - Making web API games
 `Friday 12:45`
 
-![Lisa Passing](talks-lislis.jpg)
+![Talk: Lisa Passing](talks-lislis.jpg)
 > The web offers a variety of really interesting APIs. But usually they never seem to quite fit the purpose of your current project. How will you ever get to try them out?  
 > My solution: Make a game!  
 > Let me show you how I make small scoped, browser based games using web APIs as part of interaction or game play.
@@ -57,14 +57,14 @@ Mozilla has always been a vocal advocate of "web- and digital literacy", but esp
 ## Hackerlounge demos
 
 ### Experience [WebVR](https://mozvr.com/)
-![Mozilla WebVR](demos-webvr.jpg)  
+![Demo: Mozilla WebVR](demos-webvr.jpg)  
 
 Visit the Mozilla Hackerlounge to learn more about WebVR and experience it yourself! WebVR is a new web standard for exposing the hardware and software primitives of virtual reality to web pages, and making these technologies availabe for web developers to provide low-friction access VR content to anyone with a web browser.  
 Despite being a rather new standard, various mobile browses and [Firefox on the desktop](https://blog.mozilla.org/blog/2017/06/01/mozilla-brings-virtual-reality-to-all-firefox-users/) already support WebVR — even in the stable (consumer) versions of the browsers.
 
 ### Meet Servo, [play with WebBluetooth](https://twitter.com/RustHungary/status/911654669813993472)
 
-![Servo WebBluetooth](demos-webbluetooth.jpg)
+![Demo: Servo WebBluetooth](demos-webbluetooth.jpg)
 
 Join the team from University of Szeged to learn more about [Servo](https://servo.org/), the experimental browser engine developed at Mozilla (and powering the upcoming [Firefox Quantum](https://thenextweb.com/tech/2017/09/26/mozillas-firefox-quantum-browser-is-ridiculously-fast/)). The USzeged team will also showcase the WebBluetooth implementation they developed and you will get a chance to experience it yourself - play with quadrocopters and RC cars using nothing more but a browser, thanks to the WebBluetooth API.
 

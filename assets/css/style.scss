@@ -20,12 +20,12 @@ section #title h1 {
 	opacity: .33;
 }
 
-img[src^="talks-"], img[src^="demos-"] {
+img[alt^="Talk:"], img[alt^="Demo:"] {
 	height: 8em;
 	float: left;
 	margin: 1em;
 }
-img[src^="demos-"] {
+img[alt^="Demo:"] {
 	margin: 1em 1em .5em 0;
 	border: 1px solid #ffcc00;
 }
