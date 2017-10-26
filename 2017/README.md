@@ -17,19 +17,21 @@ _TBD_
 Every day at JSConf Budapest we have a fun & engaging community talk scheduled at the Zalando lounge (upstairs) in the first half of the lunch break, presented by Mozilla & Zalando.  
 Just grab some food and settle in for some CSS and HTML5 games wizardry!
 
-### Day 1 - Eva Lettner - The Magic of CSS
-⏰ `Thurdsay 12:45`
+**Note: change in talk schedules!**
 
-![Talk: Eva Lettner](talks-eva.jpg)
-> Creating art is as old as humankind. Over time the techniques have changed. This talk will introduce CSS as a medium to create images and animations made up of pure code. You will learn to view code differently, to create more concise markups in the future, and you will learn the basics of drawing with CSS to set you on your way of creating CSS Art.
-
-### Day 2 - Lisa Passing - Making web API games
-⏰ `Friday 12:45`
+### Day 1 - Lisa Passing - Making web API games
+⏰ `Thursday 12:45`
 
 ![Talk: Lisa Passing](talks-lislis.jpg)
 > The web offers a variety of really interesting APIs. But usually they never seem to quite fit the purpose of your current project. How will you ever get to try them out?  
 > My solution: Make a game!  
 > Let me show you how I make small scoped, browser based games using web APIs as part of interaction or game play.
+
+### Day 2 - Manel Rhaiem - Virtual Reality on the Web with A-frame
+⏰ `Friday 12:45`
+
+![Talk: Lisa Passing](talks-manel.jpg)
+> WebVR gives first-hand access to Virtual Reality for web developers and all of the web's citizens, making browsers a first-class citizen in the VR ecosystem. But creating 3D content was never easy in the browser, and this didn't get any better for whole scenes. This is where Mozilla's open-source A-frame library comes to play, letting you create Virtual Reality content easily and effortlessly with a familiar syntax!
 
 
 ## Community Discussions in the Hackerlounge
