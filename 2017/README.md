@@ -11,7 +11,12 @@ All lightning talks are a maximum of 7 minutes, no Q&A, no live coding, no own c
 Some lightning talks may be recorded and made available online after the event, unless requested otherwise by the presenter.
 
 ### Lightning talk schedule
-_TBD_
+* Friday 11:40, Zalando lounge (upstairs)
+  * **Bastian Sieker** - __How Typescript helped us on the road to fullstack responsibility__
+  * **Fahad Ibnay Heylaal** - __FrintJS: Build Reactive apps with RxJS + React__
+* Friday 11:40, Mozilla Hackerlounge (downstairs)
+  * **Jayasurian Makkoth** - __Name The Colour Variant!__
+  * **Cameron McCormack** - __A lightning tour of Quantum CSS__
 
 ## Community Talks
 Every day at JSConf Budapest we have a fun & engaging community talk scheduled at the Zalando lounge (upstairs) in the first half of the lunch break, presented by Mozilla & Zalando.  
@@ -31,7 +36,8 @@ Just grab some food and settle in for some CSS and HTML5 games wizardry!
 ⏰ `Friday 12:45`
 
 ![Talk: Lisa Passing](talks-manel.jpg)
-> WebVR gives first-hand access to Virtual Reality for web developers and all of the web's citizens, making browsers a first-class citizen in the VR ecosystem. But creating 3D content was never easy in the browser, and this didn't get any better for whole scenes. This is where Mozilla's open-source A-frame library comes to play, letting you create Virtual Reality content easily and effortlessly with a familiar syntax!
+> WebVR gives first-hand access to Virtual Reality for web developers and all of the web's citizens, making browsers a first-class citizen in the VR ecosystem. But creating 3D content was never easy in the browser, and this didn't get any better for whole scenes. This is where Mozilla's open-source A-frame li
+brary comes to play, letting you create Virtual Reality content easily and effortlessly with a familiar syntax!
 
 
 ## Community Discussions in the Hackerlounge
