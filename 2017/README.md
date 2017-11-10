@@ -69,7 +69,7 @@ On both days in the second half of the lunch break the Mozilla Hackerlounge tran
 Visit the Mozilla Hackerlounge to learn more about WebVR and experience it yourself! WebVR is a new web standard for exposing the hardware and software primitives of virtual reality to web pages, and making these technologies availabe for web developers to provide low-friction access VR content to anyone with a web browser.  
 Despite being a rather new standard, various mobile browses and [Firefox on the desktop](https://blog.mozilla.org/blog/2017/06/01/mozilla-brings-virtual-reality-to-all-firefox-users/) already support WebVR — even in the stable (consumer) versions of the browsers.
 
-![](https://scontent-frx5-1.cdninstagram.com/t51.2885-19/s150x150/15877567_562565297275926_5377523174575439872_n.jpg)
+![Demo: in-game.hu](https://scontent-frx5-1.cdninstagram.com/t51.2885-19/s150x150/15877567_562565297275926_5377523174575439872_n.jpg)
 
 We would like to thank [in-game.hu](http://in-game.hu) for providing us with a complete VR setup and an HTC Vive, making it possible for us to show people the true immersive power of WebVR experiences!
 
